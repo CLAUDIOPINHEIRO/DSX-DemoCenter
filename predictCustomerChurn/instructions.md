@@ -12,9 +12,10 @@ The objective of this demo asset is to demonstrate building a predictive model w
 
 **Demo setup**
 1. Create a DSX project and name it "*DSX Local Lab - Telco Churn*"
-2. Import ![Data](data) <br/>
-Tip: First download the csv files before importing them into your project.  When downloading the csv files, make sure to click the **Raw** button to display the data in its raw format, right-click and select "Save Page As".
-![Download CSV files](static/img/download_csv.png?raw=true)
+2. Download data:
+
+- Customer Data (Features) - https://ibm.box.com/s/i1uhwjm3ce43ou5qc5odcithrqmvdxof
+- Churn Flag Data (Labels) - https://ibm.box.com/s/1eblljquzufv3bxn6heu93mv3dorjtdf
 
 3. Import notebook <br/>
 Within the "DSX Local Lab - Telco Churn" project, add a Notebook and choose to import it from this URL: https://github.com/IBMDataScience/DSX-DemoCenter/blob/master/predictCustomerChurn/Notebooks/TelcoChurn_DSX_Cloud.ipynb
