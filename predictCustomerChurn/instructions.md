@@ -17,7 +17,7 @@ Tip: First download the csv files before importing them into your project.  When
 ![Download CSV files](static/img/download_csv.png?raw=true)
 
 3. Import notebook <br/>
-Within the "DSX Local Lab - Telco Churn" project, add a Notebook and choose to import it from this URL: https://github.com/elenalowery/DSX-Local-Telco-Churn/blob/master/Notebooks/Telco%20Churn%20ML_Local.ipynb
+Within the "DSX Local Lab - Telco Churn" project, add a Notebook and choose to import it from this URL: https://github.com/IBMDataScience/DSX-DemoCenter/blob/master/predictCustomerChurn/Notebooks/TelcoChurn_DSX_Cloud.ipynb
 
 4. Follow instructions in the notebook to add project token, and work through the notebook
 5. Optional: deploy Telco Churn UI application: instructions in the ![WebApp](WebApp) folder. Or you can use this deployed UI: https://predictcustomerchurn.mybluemix.net/
